@@ -1,0 +1,5 @@
+/Users/hacim/Projects/OneDungeon/OneDungeon/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/hacim/Projects/OneDungeon/OneDungeon/bin/Debug/OneDungeon.exe.mdb
+/Users/hacim/Projects/OneDungeon/OneDungeon/bin/Debug/OneDungeon.exe
+/Users/hacim/Projects/OneDungeon/OneDungeon/obj/x86/Debug/OneDungeon.exe
+/Users/hacim/Projects/OneDungeon/OneDungeon/obj/x86/Debug/OneDungeon.exe.mdb
