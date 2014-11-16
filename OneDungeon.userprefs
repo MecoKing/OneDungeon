@@ -1,10 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OneDungeon/Item.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OneDungeon/Mods.cs">
     <Files>
       <File FileName="OneDungeon/Program.cs" Line="1" Column="1" />
       <File FileName="OneDungeon/Mods.cs" Line="1" Column="1" />
-      <File FileName="OneDungeon/Objects.cs" Line="74" Column="33" />
+      <File FileName="OneDungeon/Objects.cs" Line="33" Column="33" />
       <File FileName="OneDungeon/Modifier.cs" Line="1" Column="1" />
       <File FileName="OneDungeon/Item.cs" Line="1" Column="1" />
       <File FileName="OneDungeon/Race.cs" Line="1" Column="1" />
